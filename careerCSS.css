@@ -1,0 +1,155 @@
+body{
+   background-image:url('https://wallpapercave.com/wp/wp3616205.jpg');
+   background-repeat:no-repeat;
+   background-size:100% 100%;
+}
+.container{
+   border:2px solid #baa0b0;
+  
+   border-radius:5px;
+   padding:10px;
+   position:absolute;
+   right:10;
+   bottom:5;
+   background-color:#c5ccd1;
+}
+.container img{
+   float:left;
+   left:15%;
+   margin-right:20px;
+   border-radius:5%;
+    
+}
+h3{
+    text-align:center;
+	font-family:helvetica;
+	color:#8f130a;
+}
+p{
+   text-align:center;
+	font-family:helvetica;
+}
+
+/**End testimonials**/
+.skillset{
+    width:475px;
+	background-color:none;
+	padding:0 250px;
+	border-radius:0px;
+	border:3px solid #baa0b0;
+	right:0;
+	top:0;
+	
+}
+.skills{
+    text-align:right;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:25%;
+	color:black;
+	font-family:helvetica;
+	
+	background-color:#808080;
+	border-radius:5px;
+	border:0.25 solid #ccc;
+}
+/*core skills*/
+.wdes{
+    width:90%;
+	background-color:#6c7073;
+	color:white;
+}
+.php{
+	  width:90%;
+	background-color:#d4e072;
+}
+.wd{
+	width:80%;
+	background-color:#6c7073;
+	color:white
+}
+.ux{
+	width:65%;
+	background-color:#d4e072;
+}
+.js{
+	  width:60%;
+	background-color:#6c7073;
+	color:white;
+}
+/*soft skills*/
+.alist{
+	 width:90%;
+	background-color:#d4e072;
+}
+.tms{
+	width:90%;
+	background-color:#6c7073;
+	color:white;
+}
+.comms{
+	width:85%;
+	background-color:#d4e072;
+}
+.ips{
+		width:80%;
+	background-color:#6c7073;
+	color:white;
+}
+.tplayer{
+	 width:75%;
+	background-color:	width:90%;
+	background-color:#d4e072;
+}
+.prob{
+		width:70%;
+	background-color:#6c7073;
+	color:white;
+}
+
+.sidenav{
+	background-image:url(' https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1700488/910/607/m1/fpnw/wm0/camera-sketch-photography-logo-template-01-.png?1474964473&s=795130a120bd8f9a71eab9acfa6f9af3');
+	background-repeat:no-repeat;
+	display:none;
+	height:100%;
+	width:200px;
+	position:fixed;
+	z-index:1;
+	top:0;
+	left:0;
+	background-color:black;
+	overflow-x:hidden;
+	padding-top:5px;
+	padding-left:10px;
+
+}
+.span{
+    color:white;
+}
+.sidenav a{
+	padding-top:5px;
+	padding: 20px 28px 8px 32px;
+	text-decoration:none;
+	font-size:25px;
+	color:gray;
+	display:block;
+}
+.sidenav a:hover{
+    color:black;
+}
+.sidenav .closebtn{
+	position:absolute;
+    color:black;
+    top:0;
+    right:10px;
+    font-size:40px;
+    margin-left:40px;
+}
+img{
+	width:85%;
+	height:25%;
+	padding-top:10%;
+	padding-left:5%
+}
+	
+
